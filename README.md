@@ -37,4 +37,3 @@ This project is a **responsive café website** featuring a modern sidebar menu l
 - **Font Awesome** for icons
 - **Google Fonts** for typography
 
-## File Structure
